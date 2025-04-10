@@ -32,7 +32,7 @@
 - :student: En constante aprendizaje de tecnologias basadas en `JavaScript` y `Python`.
 - :nerd_face: Control de lógica `matemática` para el desarrollo de `algoritmos`.
 - 🛠️ Gran conocimiento y destreza en el desarrollo en `API REST`
-- :thinking: Actualmente estoy abierto para una nueva `oportunidad de trabajo`, este es [MI LINKEDIN](https://www.linkedin.com/in/gabriel-marcano-771568203).
+- :thinking: Actualmente estoy abierto para una nueva `oportunidad de empleo`, este es [MI LINKEDIN](https://www.linkedin.com/in/gabriel-marcano-771568203).
 <!-- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website). -->
 <br>
 
